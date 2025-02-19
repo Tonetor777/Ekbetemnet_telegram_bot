@@ -1,0 +1,9 @@
+# Ignore local environment variables
+.env
+
+# Ignore database file
+data/bot.db
+
+# Ignore virtual environment
+venv/
+__pycache__/

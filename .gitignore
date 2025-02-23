@@ -2,7 +2,7 @@
 .env
 
 # Ignore database file
-data/bot.db
+# data/bot.db
 
 # Ignore virtual environment
 venv/
